@@ -9,3 +9,6 @@ We put here our work that is currently under development. Updates will be made a
 
 ## Talks
 - The Importance of Hyperparameter Tuning in Causal Effect Estimation ([CDSM22](https://www.causalscience.org/meeting/programme/programme-2022/)) - [slides](Model%20Selection%20in%20Causal%20Effect%20Estimation%20-%20CDSM22.pdf)
+
+## Frameworks
+- CATE Benchmark [[code](https://github.com/misoc-mml/cate-benchmark)]
